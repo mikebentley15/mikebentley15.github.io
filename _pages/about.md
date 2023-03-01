@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: PhD in Computing in Robotics track from the University of Utah.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #address: >
+  #  <p>mikebentley15 at gmail dot com</p>
+  #  <p>Salt Lake City, Utah</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computer scientist and roboticist with a research focus in robot motion planning, continuum robot force modeling, and numerical reproducibility.
+I am a recent PhD graduate in Computing in the Robotics track from the [Kahlert School of Computing (KSoC)](https://www.cs.utah.edu/) and [Robotics Center](https://robotics.coe.utah.edu/) at the [University of Utah](https://www.utah.edu/).
+I performend research as a member of
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- [Artificial Intelligence and Robotics in Medicine Lab (ARMLab)](https://arm.cs.utah.edu/) under [Prof. Alan Kuntz](https://users.cs.utah.edu/~adk/).
+- [Center for Parallel Computing (CPU)](http://www.parallel.utah.edu/) under [Prof. Ganesh Gopalakrishnan](https://users.cs.utah.edu/~ganesh/) in collaboration with [Lawrence Livermore National Laboratories (LLNL)](https://www.llnl.gov/).
