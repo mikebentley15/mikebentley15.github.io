@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mikebentley15
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Utah-ARMLab/interactive-rate-tendons
+  - PRUNERS/FLiT
+  - mikebentley15/sandbox
+  - mikebentley15/SimpleSet
+
+github_contributions:
+  - micropython/micropython
+  - micropython/micropython-lib
+  - ganeshutah/Jove
+  - mikebentley15/libccddbl
