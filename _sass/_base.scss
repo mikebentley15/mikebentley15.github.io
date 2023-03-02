@@ -498,6 +498,10 @@ footer.sticky-bottom {
         min-width: 80px;
         max-width: 200px;
       }
+      div.award {
+        font-weight: bold;
+        color: blue;
+      }
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
@@ -512,10 +516,6 @@ footer.sticky-bottom {
               text-decoration: none;
             }
           }
-        }
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
         }
       }
       .title {
