@@ -17,8 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computer scientist and roboticist with a research focus in robot motion planning, continuum robot force modeling, and numerical reproducibility.
+I am a computer scientist and roboticist currently working at [Motional](https://motional.com/) as a Senior Software Engineer in the Motion Planning team.
 I am a recent PhD graduate in Computing in the Robotics track from the [Kahlert School of Computing (KSoC)](https://www.cs.utah.edu/) and [Robotics Center](https://robotics.coe.utah.edu/) at the [University of Utah](https://www.utah.edu/).
+My research was focused in robot motion planning, continuum robot force modeling, and numerical reproducibility.
 I performend research as a member of
 
 - [Artificial Intelligence and Robotics in Medicine Lab (ARMLab)](https://arm.cs.utah.edu/) under [Prof. Alan Kuntz](https://users.cs.utah.edu/~adk/).
